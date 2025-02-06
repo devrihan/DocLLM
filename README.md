@@ -84,4 +84,12 @@ To run this app locally, you need to install the following dependencies:
 2. **Ask a Question**: Type your question in the text input box, and the app will analyze the document to provide an answer.
 3. **Listen to the Answer**: The answer will be displayed as text and also converted to speech for audio playback.
 
+## Acknowledgements
+
+- [Streamlit](https://streamlit.io/) for building interactive web apps.
+- [LangChain](https://langchain.com/) for powerful LLM integration.
+- [gTTS](https://gtts.readthedocs.io/en/latest/) for easy text-to-speech conversion.
+- [Ollama](https://ollama.com/) for advanced natural language processing.
+- [PDFPlumber](https://github.com/jsvine/pdfplumber) for extracting text from PDFs.
+
 
